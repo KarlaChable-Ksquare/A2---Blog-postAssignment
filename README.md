@@ -13,7 +13,7 @@
   </header>
 
   <main class="main">
-    <h3 id="title"> class="headers">Hello world!</h3>
+    <h3 id="title" class="headers">Hello world!</h3>
 
   </main>
 </body>
