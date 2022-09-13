@@ -12,13 +12,15 @@
 <body>
   <main class="main">
     <h3 id="title" class="headers">Hello world!</h3>
+    <hr/>
     <p>ES: Este es un ejemplo nada mas para clonar repos de github a pc</p>
     <p>EN: This is a example for clone repos of github to machine</p>
-
+    <hr/>
   </main>
 </body>
 
 <footer>
+<br/>
   by Karla Chable :)
 </footer>
 </html>
