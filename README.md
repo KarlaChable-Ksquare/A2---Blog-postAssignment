@@ -10,12 +10,10 @@
 </head>
 
 <body>
-  <header>
-  </header>
-
   <main class="main">
     <h3 id="title" class="headers">Hello world!</h3>
-    <p>Este es un ejemplo nada mas para clonar repos de github a machine</p>
+    <p>ES: Este es un ejemplo nada mas para clonar repos de github a pc</p>
+    <p>EN: This is a example for clone repos of github to machine</p>
 
   </main>
 </body>
