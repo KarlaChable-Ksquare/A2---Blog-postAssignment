@@ -18,7 +18,7 @@
     <hr/>
     <a href="https://karlachable-ksquare.github.io/E1-Clone-repos/" target="_blank" rel="noopener noreferrer">Repo in Github Pages</a>
     <hr/>
-    <p>You can check this ither page</p>
+    <p>You can check this other page</p>
     <a href="https://karlachable-ksquare.github.io/A1-Tribute-Page/" target="_blank" rel="noopener noreferrer">Queen Elizabeth II</a>
     <hr/>
 
