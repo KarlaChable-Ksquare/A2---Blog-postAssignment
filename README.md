@@ -12,8 +12,8 @@
   <header>
   </header>
 
-  <main class="mIN">
-    <h3> id="title" class="headers">Hello world!</h3>
+  <main class="main">
+    <h3 id="title"> class="headers">Hello world!</h3>
 
   </main>
 </body>
