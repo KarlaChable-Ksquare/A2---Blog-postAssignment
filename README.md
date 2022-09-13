@@ -16,6 +16,7 @@
     <p>ES: Este es un ejemplo nada mas para clonar repos de github a pc</p>
     <p>EN: This is a example for clone repos of github to machine</p>
     <hr/>
+    <a href="https://karlachable-ksquare.github.io/E1-Clone-repos/">Repo in Github Pages</a>
   </main>
 </body>
 
